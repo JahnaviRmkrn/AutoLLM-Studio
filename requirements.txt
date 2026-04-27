@@ -1,0 +1,13 @@
+torch
+transformers
+datasets
+peft
+accelerate
+bitsandbytes
+sentencepiece
+evaluate
+rouge-score
+bert-score
+fastapi
+uvicorn
+wandb
