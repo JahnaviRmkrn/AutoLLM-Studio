@@ -1,0 +1,602 @@
+[
+    {
+        "instruction": "Fix leaking tap",
+        "input": "",
+        "output": "To fix leaking tap, first ensure safety precautions are followed, gather the required tools, and complete the service step-by-step."
+    },
+    {
+        "instruction": "Unclog kitchen drain",
+        "input": "",
+        "output": "To unclog kitchen drain, first ensure safety precautions are followed, gather the required tools, and complete the service step-by-step."
+    },
+    {
+        "instruction": "Install ceiling fan",
+        "input": "",
+        "output": "To install ceiling fan, first ensure safety precautions are followed, gather the required tools, and complete the service step-by-step."
+    },
+    {
+        "instruction": "Repair electrical switch",
+        "input": "",
+        "output": "To repair electrical switch, first ensure safety precautions are followed, gather the required tools, and complete the service step-by-step."
+    },
+    {
+        "instruction": "Clean water tank",
+        "input": "",
+        "output": "To clean water tank, first ensure safety precautions are followed, gather the required tools, and complete the service step-by-step."
+    },
+    {
+        "instruction": "Fix door hinge",
+        "input": "",
+        "output": "To fix door hinge, first ensure safety precautions are followed, gather the required tools, and complete the service step-by-step."
+    },
+    {
+        "instruction": "Install RO purifier",
+        "input": "",
+        "output": "To install ro purifier, first ensure safety precautions are followed, gather the required tools, and complete the service step-by-step."
+    },
+    {
+        "instruction": "Repair washing machine",
+        "input": "",
+        "output": "To repair washing machine, first ensure safety precautions are followed, gather the required tools, and complete the service step-by-step."
+    },
+    {
+        "instruction": "Paint room wall",
+        "input": "",
+        "output": "To paint room wall, first ensure safety precautions are followed, gather the required tools, and complete the service step-by-step."
+    },
+    {
+        "instruction": "Install geyser",
+        "input": "",
+        "output": "To install geyser, first ensure safety precautions are followed, gather the required tools, and complete the service step-by-step."
+    },
+    {
+        "instruction": "Fix window lock",
+        "input": "",
+        "output": "To fix window lock, first ensure safety precautions are followed, gather the required tools, and complete the service step-by-step."
+    },
+    {
+        "instruction": "Repair electrical socket",
+        "input": "",
+        "output": "To repair electrical socket, first ensure safety precautions are followed, gather the required tools, and complete the service step-by-step."
+    },
+    {
+        "instruction": "Install bathroom shower",
+        "input": "",
+        "output": "To install bathroom shower, first ensure safety precautions are followed, gather the required tools, and complete the service step-by-step."
+    },
+    {
+        "instruction": "Clean AC filter",
+        "input": "",
+        "output": "To clean ac filter, first ensure safety precautions are followed, gather the required tools, and complete the service step-by-step."
+    },
+    {
+        "instruction": "Replace tube light",
+        "input": "",
+        "output": "To replace tube light, first ensure safety precautions are followed, gather the required tools, and complete the service step-by-step."
+    },
+    {
+        "instruction": "Fix leaking tap",
+        "input": "",
+        "output": "To fix leaking tap, first ensure safety precautions are followed, gather the required tools, and complete the service step-by-step."
+    },
+    {
+        "instruction": "Unclog kitchen drain",
+        "input": "",
+        "output": "To unclog kitchen drain, first ensure safety precautions are followed, gather the required tools, and complete the service step-by-step."
+    },
+    {
+        "instruction": "Install ceiling fan",
+        "input": "",
+        "output": "To install ceiling fan, first ensure safety precautions are followed, gather the required tools, and complete the service step-by-step."
+    },
+    {
+        "instruction": "Repair electrical switch",
+        "input": "",
+        "output": "To repair electrical switch, first ensure safety precautions are followed, gather the required tools, and complete the service step-by-step."
+    },
+    {
+        "instruction": "Clean water tank",
+        "input": "",
+        "output": "To clean water tank, first ensure safety precautions are followed, gather the required tools, and complete the service step-by-step."
+    },
+    {
+        "instruction": "Fix door hinge",
+        "input": "",
+        "output": "To fix door hinge, first ensure safety precautions are followed, gather the required tools, and complete the service step-by-step."
+    },
+    {
+        "instruction": "Install RO purifier",
+        "input": "",
+        "output": "To install ro purifier, first ensure safety precautions are followed, gather the required tools, and complete the service step-by-step."
+    },
+    {
+        "instruction": "Repair washing machine",
+        "input": "",
+        "output": "To repair washing machine, first ensure safety precautions are followed, gather the required tools, and complete the service step-by-step."
+    },
+    {
+        "instruction": "Paint room wall",
+        "input": "",
+        "output": "To paint room wall, first ensure safety precautions are followed, gather the required tools, and complete the service step-by-step."
+    },
+    {
+        "instruction": "Install geyser",
+        "input": "",
+        "output": "To install geyser, first ensure safety precautions are followed, gather the required tools, and complete the service step-by-step."
+    },
+    {
+        "instruction": "Fix window lock",
+        "input": "",
+        "output": "To fix window lock, first ensure safety precautions are followed, gather the required tools, and complete the service step-by-step."
+    },
+    {
+        "instruction": "Repair electrical socket",
+        "input": "",
+        "output": "To repair electrical socket, first ensure safety precautions are followed, gather the required tools, and complete the service step-by-step."
+    },
+    {
+        "instruction": "Install bathroom shower",
+        "input": "",
+        "output": "To install bathroom shower, first ensure safety precautions are followed, gather the required tools, and complete the service step-by-step."
+    },
+    {
+        "instruction": "Clean AC filter",
+        "input": "",
+        "output": "To clean ac filter, first ensure safety precautions are followed, gather the required tools, and complete the service step-by-step."
+    },
+    {
+        "instruction": "Replace tube light",
+        "input": "",
+        "output": "To replace tube light, first ensure safety precautions are followed, gather the required tools, and complete the service step-by-step."
+    },
+    {
+        "instruction": "Fix leaking tap",
+        "input": "",
+        "output": "To fix leaking tap, first ensure safety precautions are followed, gather the required tools, and complete the service step-by-step."
+    },
+    {
+        "instruction": "Unclog kitchen drain",
+        "input": "",
+        "output": "To unclog kitchen drain, first ensure safety precautions are followed, gather the required tools, and complete the service step-by-step."
+    },
+    {
+        "instruction": "Install ceiling fan",
+        "input": "",
+        "output": "To install ceiling fan, first ensure safety precautions are followed, gather the required tools, and complete the service step-by-step."
+    },
+    {
+        "instruction": "Repair electrical switch",
+        "input": "",
+        "output": "To repair electrical switch, first ensure safety precautions are followed, gather the required tools, and complete the service step-by-step."
+    },
+    {
+        "instruction": "Clean water tank",
+        "input": "",
+        "output": "To clean water tank, first ensure safety precautions are followed, gather the required tools, and complete the service step-by-step."
+    },
+    {
+        "instruction": "Fix door hinge",
+        "input": "",
+        "output": "To fix door hinge, first ensure safety precautions are followed, gather the required tools, and complete the service step-by-step."
+    },
+    {
+        "instruction": "Install RO purifier",
+        "input": "",
+        "output": "To install ro purifier, first ensure safety precautions are followed, gather the required tools, and complete the service step-by-step."
+    },
+    {
+        "instruction": "Repair washing machine",
+        "input": "",
+        "output": "To repair washing machine, first ensure safety precautions are followed, gather the required tools, and complete the service step-by-step."
+    },
+    {
+        "instruction": "Paint room wall",
+        "input": "",
+        "output": "To paint room wall, first ensure safety precautions are followed, gather the required tools, and complete the service step-by-step."
+    },
+    {
+        "instruction": "Install geyser",
+        "input": "",
+        "output": "To install geyser, first ensure safety precautions are followed, gather the required tools, and complete the service step-by-step."
+    },
+    {
+        "instruction": "Fix window lock",
+        "input": "",
+        "output": "To fix window lock, first ensure safety precautions are followed, gather the required tools, and complete the service step-by-step."
+    },
+    {
+        "instruction": "Repair electrical socket",
+        "input": "",
+        "output": "To repair electrical socket, first ensure safety precautions are followed, gather the required tools, and complete the service step-by-step."
+    },
+    {
+        "instruction": "Install bathroom shower",
+        "input": "",
+        "output": "To install bathroom shower, first ensure safety precautions are followed, gather the required tools, and complete the service step-by-step."
+    },
+    {
+        "instruction": "Clean AC filter",
+        "input": "",
+        "output": "To clean ac filter, first ensure safety precautions are followed, gather the required tools, and complete the service step-by-step."
+    },
+    {
+        "instruction": "Replace tube light",
+        "input": "",
+        "output": "To replace tube light, first ensure safety precautions are followed, gather the required tools, and complete the service step-by-step."
+    },
+    {
+        "instruction": "Fix leaking tap",
+        "input": "",
+        "output": "To fix leaking tap, first ensure safety precautions are followed, gather the required tools, and complete the service step-by-step."
+    },
+    {
+        "instruction": "Unclog kitchen drain",
+        "input": "",
+        "output": "To unclog kitchen drain, first ensure safety precautions are followed, gather the required tools, and complete the service step-by-step."
+    },
+    {
+        "instruction": "Install ceiling fan",
+        "input": "",
+        "output": "To install ceiling fan, first ensure safety precautions are followed, gather the required tools, and complete the service step-by-step."
+    },
+    {
+        "instruction": "Repair electrical switch",
+        "input": "",
+        "output": "To repair electrical switch, first ensure safety precautions are followed, gather the required tools, and complete the service step-by-step."
+    },
+    {
+        "instruction": "Clean water tank",
+        "input": "",
+        "output": "To clean water tank, first ensure safety precautions are followed, gather the required tools, and complete the service step-by-step."
+    },
+    {
+        "instruction": "Fix door hinge",
+        "input": "",
+        "output": "To fix door hinge, first ensure safety precautions are followed, gather the required tools, and complete the service step-by-step."
+    },
+    {
+        "instruction": "Install RO purifier",
+        "input": "",
+        "output": "To install ro purifier, first ensure safety precautions are followed, gather the required tools, and complete the service step-by-step."
+    },
+    {
+        "instruction": "Repair washing machine",
+        "input": "",
+        "output": "To repair washing machine, first ensure safety precautions are followed, gather the required tools, and complete the service step-by-step."
+    },
+    {
+        "instruction": "Paint room wall",
+        "input": "",
+        "output": "To paint room wall, first ensure safety precautions are followed, gather the required tools, and complete the service step-by-step."
+    },
+    {
+        "instruction": "Install geyser",
+        "input": "",
+        "output": "To install geyser, first ensure safety precautions are followed, gather the required tools, and complete the service step-by-step."
+    },
+    {
+        "instruction": "Fix window lock",
+        "input": "",
+        "output": "To fix window lock, first ensure safety precautions are followed, gather the required tools, and complete the service step-by-step."
+    },
+    {
+        "instruction": "Repair electrical socket",
+        "input": "",
+        "output": "To repair electrical socket, first ensure safety precautions are followed, gather the required tools, and complete the service step-by-step."
+    },
+    {
+        "instruction": "Install bathroom shower",
+        "input": "",
+        "output": "To install bathroom shower, first ensure safety precautions are followed, gather the required tools, and complete the service step-by-step."
+    },
+    {
+        "instruction": "Clean AC filter",
+        "input": "",
+        "output": "To clean ac filter, first ensure safety precautions are followed, gather the required tools, and complete the service step-by-step."
+    },
+    {
+        "instruction": "Replace tube light",
+        "input": "",
+        "output": "To replace tube light, first ensure safety precautions are followed, gather the required tools, and complete the service step-by-step."
+    },
+    {
+        "instruction": "Fix leaking tap",
+        "input": "",
+        "output": "To fix leaking tap, first ensure safety precautions are followed, gather the required tools, and complete the service step-by-step."
+    },
+    {
+        "instruction": "Unclog kitchen drain",
+        "input": "",
+        "output": "To unclog kitchen drain, first ensure safety precautions are followed, gather the required tools, and complete the service step-by-step."
+    },
+    {
+        "instruction": "Install ceiling fan",
+        "input": "",
+        "output": "To install ceiling fan, first ensure safety precautions are followed, gather the required tools, and complete the service step-by-step."
+    },
+    {
+        "instruction": "Repair electrical switch",
+        "input": "",
+        "output": "To repair electrical switch, first ensure safety precautions are followed, gather the required tools, and complete the service step-by-step."
+    },
+    {
+        "instruction": "Clean water tank",
+        "input": "",
+        "output": "To clean water tank, first ensure safety precautions are followed, gather the required tools, and complete the service step-by-step."
+    },
+    {
+        "instruction": "Fix door hinge",
+        "input": "",
+        "output": "To fix door hinge, first ensure safety precautions are followed, gather the required tools, and complete the service step-by-step."
+    },
+    {
+        "instruction": "Install RO purifier",
+        "input": "",
+        "output": "To install ro purifier, first ensure safety precautions are followed, gather the required tools, and complete the service step-by-step."
+    },
+    {
+        "instruction": "Repair washing machine",
+        "input": "",
+        "output": "To repair washing machine, first ensure safety precautions are followed, gather the required tools, and complete the service step-by-step."
+    },
+    {
+        "instruction": "Paint room wall",
+        "input": "",
+        "output": "To paint room wall, first ensure safety precautions are followed, gather the required tools, and complete the service step-by-step."
+    },
+    {
+        "instruction": "Install geyser",
+        "input": "",
+        "output": "To install geyser, first ensure safety precautions are followed, gather the required tools, and complete the service step-by-step."
+    },
+    {
+        "instruction": "Fix window lock",
+        "input": "",
+        "output": "To fix window lock, first ensure safety precautions are followed, gather the required tools, and complete the service step-by-step."
+    },
+    {
+        "instruction": "Repair electrical socket",
+        "input": "",
+        "output": "To repair electrical socket, first ensure safety precautions are followed, gather the required tools, and complete the service step-by-step."
+    },
+    {
+        "instruction": "Install bathroom shower",
+        "input": "",
+        "output": "To install bathroom shower, first ensure safety precautions are followed, gather the required tools, and complete the service step-by-step."
+    },
+    {
+        "instruction": "Clean AC filter",
+        "input": "",
+        "output": "To clean ac filter, first ensure safety precautions are followed, gather the required tools, and complete the service step-by-step."
+    },
+    {
+        "instruction": "Replace tube light",
+        "input": "",
+        "output": "To replace tube light, first ensure safety precautions are followed, gather the required tools, and complete the service step-by-step."
+    },
+    {
+        "instruction": "Fix leaking tap",
+        "input": "",
+        "output": "To fix leaking tap, first ensure safety precautions are followed, gather the required tools, and complete the service step-by-step."
+    },
+    {
+        "instruction": "Unclog kitchen drain",
+        "input": "",
+        "output": "To unclog kitchen drain, first ensure safety precautions are followed, gather the required tools, and complete the service step-by-step."
+    },
+    {
+        "instruction": "Install ceiling fan",
+        "input": "",
+        "output": "To install ceiling fan, first ensure safety precautions are followed, gather the required tools, and complete the service step-by-step."
+    },
+    {
+        "instruction": "Repair electrical switch",
+        "input": "",
+        "output": "To repair electrical switch, first ensure safety precautions are followed, gather the required tools, and complete the service step-by-step."
+    },
+    {
+        "instruction": "Clean water tank",
+        "input": "",
+        "output": "To clean water tank, first ensure safety precautions are followed, gather the required tools, and complete the service step-by-step."
+    },
+    {
+        "instruction": "Fix door hinge",
+        "input": "",
+        "output": "To fix door hinge, first ensure safety precautions are followed, gather the required tools, and complete the service step-by-step."
+    },
+    {
+        "instruction": "Install RO purifier",
+        "input": "",
+        "output": "To install ro purifier, first ensure safety precautions are followed, gather the required tools, and complete the service step-by-step."
+    },
+    {
+        "instruction": "Repair washing machine",
+        "input": "",
+        "output": "To repair washing machine, first ensure safety precautions are followed, gather the required tools, and complete the service step-by-step."
+    },
+    {
+        "instruction": "Paint room wall",
+        "input": "",
+        "output": "To paint room wall, first ensure safety precautions are followed, gather the required tools, and complete the service step-by-step."
+    },
+    {
+        "instruction": "Install geyser",
+        "input": "",
+        "output": "To install geyser, first ensure safety precautions are followed, gather the required tools, and complete the service step-by-step."
+    },
+    {
+        "instruction": "Fix window lock",
+        "input": "",
+        "output": "To fix window lock, first ensure safety precautions are followed, gather the required tools, and complete the service step-by-step."
+    },
+    {
+        "instruction": "Repair electrical socket",
+        "input": "",
+        "output": "To repair electrical socket, first ensure safety precautions are followed, gather the required tools, and complete the service step-by-step."
+    },
+    {
+        "instruction": "Install bathroom shower",
+        "input": "",
+        "output": "To install bathroom shower, first ensure safety precautions are followed, gather the required tools, and complete the service step-by-step."
+    },
+    {
+        "instruction": "Clean AC filter",
+        "input": "",
+        "output": "To clean ac filter, first ensure safety precautions are followed, gather the required tools, and complete the service step-by-step."
+    },
+    {
+        "instruction": "Replace tube light",
+        "input": "",
+        "output": "To replace tube light, first ensure safety precautions are followed, gather the required tools, and complete the service step-by-step."
+    },
+    {
+        "instruction": "Fix leaking tap",
+        "input": "",
+        "output": "To fix leaking tap, first ensure safety precautions are followed, gather the required tools, and complete the service step-by-step."
+    },
+    {
+        "instruction": "Unclog kitchen drain",
+        "input": "",
+        "output": "To unclog kitchen drain, first ensure safety precautions are followed, gather the required tools, and complete the service step-by-step."
+    },
+    {
+        "instruction": "Install ceiling fan",
+        "input": "",
+        "output": "To install ceiling fan, first ensure safety precautions are followed, gather the required tools, and complete the service step-by-step."
+    },
+    {
+        "instruction": "Repair electrical switch",
+        "input": "",
+        "output": "To repair electrical switch, first ensure safety precautions are followed, gather the required tools, and complete the service step-by-step."
+    },
+    {
+        "instruction": "Clean water tank",
+        "input": "",
+        "output": "To clean water tank, first ensure safety precautions are followed, gather the required tools, and complete the service step-by-step."
+    },
+    {
+        "instruction": "Fix door hinge",
+        "input": "",
+        "output": "To fix door hinge, first ensure safety precautions are followed, gather the required tools, and complete the service step-by-step."
+    },
+    {
+        "instruction": "Install RO purifier",
+        "input": "",
+        "output": "To install ro purifier, first ensure safety precautions are followed, gather the required tools, and complete the service step-by-step."
+    },
+    {
+        "instruction": "Repair washing machine",
+        "input": "",
+        "output": "To repair washing machine, first ensure safety precautions are followed, gather the required tools, and complete the service step-by-step."
+    },
+    {
+        "instruction": "Paint room wall",
+        "input": "",
+        "output": "To paint room wall, first ensure safety precautions are followed, gather the required tools, and complete the service step-by-step."
+    },
+    {
+        "instruction": "Install geyser",
+        "input": "",
+        "output": "To install geyser, first ensure safety precautions are followed, gather the required tools, and complete the service step-by-step."
+    },
+    {
+        "instruction": "Fix window lock",
+        "input": "",
+        "output": "To fix window lock, first ensure safety precautions are followed, gather the required tools, and complete the service step-by-step."
+    },
+    {
+        "instruction": "Repair electrical socket",
+        "input": "",
+        "output": "To repair electrical socket, first ensure safety precautions are followed, gather the required tools, and complete the service step-by-step."
+    },
+    {
+        "instruction": "Install bathroom shower",
+        "input": "",
+        "output": "To install bathroom shower, first ensure safety precautions are followed, gather the required tools, and complete the service step-by-step."
+    },
+    {
+        "instruction": "Clean AC filter",
+        "input": "",
+        "output": "To clean ac filter, first ensure safety precautions are followed, gather the required tools, and complete the service step-by-step."
+    },
+    {
+        "instruction": "Replace tube light",
+        "input": "",
+        "output": "To replace tube light, first ensure safety precautions are followed, gather the required tools, and complete the service step-by-step."
+    },
+    {
+        "instruction": "Fix leaking tap",
+        "input": "",
+        "output": "To fix leaking tap, first ensure safety precautions are followed, gather the required tools, and complete the service step-by-step."
+    },
+    {
+        "instruction": "Unclog kitchen drain",
+        "input": "",
+        "output": "To unclog kitchen drain, first ensure safety precautions are followed, gather the required tools, and complete the service step-by-step."
+    },
+    {
+        "instruction": "Install ceiling fan",
+        "input": "",
+        "output": "To install ceiling fan, first ensure safety precautions are followed, gather the required tools, and complete the service step-by-step."
+    },
+    {
+        "instruction": "Repair electrical switch",
+        "input": "",
+        "output": "To repair electrical switch, first ensure safety precautions are followed, gather the required tools, and complete the service step-by-step."
+    },
+    {
+        "instruction": "Clean water tank",
+        "input": "",
+        "output": "To clean water tank, first ensure safety precautions are followed, gather the required tools, and complete the service step-by-step."
+    },
+    {
+        "instruction": "Fix door hinge",
+        "input": "",
+        "output": "To fix door hinge, first ensure safety precautions are followed, gather the required tools, and complete the service step-by-step."
+    },
+    {
+        "instruction": "Install RO purifier",
+        "input": "",
+        "output": "To install ro purifier, first ensure safety precautions are followed, gather the required tools, and complete the service step-by-step."
+    },
+    {
+        "instruction": "Repair washing machine",
+        "input": "",
+        "output": "To repair washing machine, first ensure safety precautions are followed, gather the required tools, and complete the service step-by-step."
+    },
+    {
+        "instruction": "Paint room wall",
+        "input": "",
+        "output": "To paint room wall, first ensure safety precautions are followed, gather the required tools, and complete the service step-by-step."
+    },
+    {
+        "instruction": "Install geyser",
+        "input": "",
+        "output": "To install geyser, first ensure safety precautions are followed, gather the required tools, and complete the service step-by-step."
+    },
+    {
+        "instruction": "Fix window lock",
+        "input": "",
+        "output": "To fix window lock, first ensure safety precautions are followed, gather the required tools, and complete the service step-by-step."
+    },
+    {
+        "instruction": "Repair electrical socket",
+        "input": "",
+        "output": "To repair electrical socket, first ensure safety precautions are followed, gather the required tools, and complete the service step-by-step."
+    },
+    {
+        "instruction": "Install bathroom shower",
+        "input": "",
+        "output": "To install bathroom shower, first ensure safety precautions are followed, gather the required tools, and complete the service step-by-step."
+    },
+    {
+        "instruction": "Clean AC filter",
+        "input": "",
+        "output": "To clean ac filter, first ensure safety precautions are followed, gather the required tools, and complete the service step-by-step."
+    },
+    {
+        "instruction": "Replace tube light",
+        "input": "",
+        "output": "To replace tube light, first ensure safety precautions are followed, gather the required tools, and complete the service step-by-step."
+    }
+]
